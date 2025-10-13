@@ -16,7 +16,7 @@ function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   
   return (
-     <div className="bg-gray-900">
+     <div className="bg-white dark:bg-gray-950 scheme-light dark:scheme-dark">
       <header className="absolute inset-x-0 top-0 z-50">
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">

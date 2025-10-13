@@ -5,6 +5,7 @@ import Newsletter from './components/Newsletter'
 import Team from './components/Team'
 import Testimonials from './components/Testimonials'
 import Mode from './components/Mode'
+
 function App() {
   return (
     <>

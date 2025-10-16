@@ -14,9 +14,9 @@ function App() {
       <Navbar/>
       <Prices/>
       <Contact/>
-      <Newsletter/>
-      <Team/>
+       <Team/>
       <Testimonials/>
+      <Newsletter/>
       <Footer/>
     
     </>

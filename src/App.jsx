@@ -5,6 +5,7 @@ import Newsletter from './components/Newsletter'
 import Team from './components/Team'
 import Testimonials from './components/Testimonials'
 import Mode from './components/Mode'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Newsletter/>
       <Team/>
       <Testimonials/>
+      <Footer/>
     
     </>
   )
